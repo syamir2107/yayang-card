@@ -17,50 +17,28 @@
       }
       p {
         font-size: 20px;
+        max-width: 600px;
+        margin: 0 auto;
+      }
+      img {
+        margin-top: 20px;
+        border-radius: 10px;
+        max-width: 90%;
       }
     </style>
   </head>
   <body>
     <h1>ASHDNAA🤍</h1>
-    <p><!DOCTYPE html>
-<html>
-  <head>
-    <title>รัก🤍</title>
-    <meta charset="UTF-8" />
-    <style>
-      body {
-        font-family: monospace;
-        background-color: navy;
-        color: white;
-        text-align: center;
-        padding: 30px;
-      }
-      h1 {
-        font-size: 32px;
-        color: pink;
-      }
-      p {
-        font-size: 20px;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>ASHDNAA🤍</h1>
-<img src="https://limewire.com/d/yuYw8#UonWXe"
-    <p>Happy Birthday Yayang🤍 yang ke 19✨dah besar yayang ni tapi tu la kesian kat yayang sebab sakit hm....orang nak minta maaf salah silap orang kat yayang selama ni...orang selalu press yayang selalu serabutkan yayang...orang minta maaf sekali lagi jangan risau yayang ada orang...orang selalu tunggu yayang....orang tunggu yayang sembuh..kalau yayang nak tau lagu ni jadi playlist orang setiap malam before sleep tau...tu ja kot orang nak cakap btw fokus kedepan jangan patah balik ke belakang...apa ii bagitau orang..thanks for three years yayang ✨🤍nanti tengah hari kot kalau tak silap orang ada belikan something for you so seharian kalau boleh yayang jangan keluar okayy tu ja babaiii cinta🤍</p>
+
+    <img src="https://limewire.com/d/yuYw8#UonWXe" alt="gambar yayang">
+
+    <p>
+      Happy Birthday Yayang🤍 yang ke 19✨ dah besar yayang ni tapi tu la kesian kat yayang sebab sakit hm.... orang nak minta maaf salah silap orang kat yayang selama ni... orang selalu press yayang, selalu serabutkan yayang... orang minta maaf sekali lagi. Jangan risau yayang, ada orang... orang selalu tunggu yayang.... orang tunggu yayang sembuh. Kalau yayang nak tau, lagu ni jadi playlist orang setiap malam sebelum tidur tau... tu ja kot orang nak cakap. Btw fokus ke depan, jangan patah balik ke belakang... apa-apa bagitau orang.. thanks for three years yayang ✨🤍 nanti tengah hari kot kalau tak silap orang ada belikan something for you, so seharian kalau boleh yayang jangan keluar okayy. Tu ja, babaiii cinta 🤍
+    </p>
 
     <!-- Lagu autoplay -->
     <audio autoplay loop>
       <source src="https://limewire.com/d/zfYbf#DJBm5qXthC/your-mp3-link.mp3" type="audio/mpeg" />
-    </audio>
-
-    <p style="margin-top: 40px;">From mirmir ✨</p>
-  </body>
-</html></p>
-
-    <!-- Lagu autoplay -->
-    <audio autoplay loop>
-      <source src="https://example.com/your-mp3-link.mp3" type="audio/mpeg" />
     </audio>
 
     <p style="margin-top: 40px;">From mirmir ✨</p>
